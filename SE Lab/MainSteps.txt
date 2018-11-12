@@ -1,0 +1,9 @@
+1. User Request
+	1.a. Initialize TerraGear
+	1.b. Run idle rendering loop
+2. Canvas call made
+3. OpenGL called
+4. HUD drawn
+5. Spatial Orientation determined
+	5.a. Nasal Garbage Collection Run
+	5.b. TerraGear GC run
